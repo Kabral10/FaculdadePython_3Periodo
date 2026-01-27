@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="Primeiro commit de 2026">
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/02_Exemplo_Pratico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/03_Situacao_Problema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo_Um/01_Operacoes_Basicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/01_Operacoes_Basicas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo_Um/02_Exemplo_Pratico.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/02_Exemplo_Pratico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo_Um/dados1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/01_dados1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,11 +55,19 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01_Operacoes_Basicas.executor": "Run",
     "Python.02_Exemplo_Pratico.executor": "Run",
+    "Python.03_Situacao_Problema.executor": "Run",
+    "Python.04_Lidando_com_dados_binarios.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Projetos/PythonProject/Modulo_Um"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projetos\PythonProject\Modulo_Um" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769293809650</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primeiro commit de 2026">
+      <option name="closed" value="true" />
+      <created>1769465705764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769465705764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

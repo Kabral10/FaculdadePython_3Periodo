@@ -1,7 +1,7 @@
 import os
 
 #Abrindo o arquivo no modo escrita
-arquivo = open('exemplo.txt', 'w', encoding='utf-8')
+arquivo = open('02_Exemplo.txt', 'w', encoding='utf-8')
 
 #Exibindo os atributos do arquivo
 print('nome do arquivo:', arquivo.name)
@@ -18,8 +18,8 @@ arquivo.close()
 print('O arquivo está fechado?',arquivo.closed)
 
 #verificando os caminhos relativos e absolutos
-relpath = os.path.relpath('exemplo.txt')
-abspath = os.path.abspath('exemplo.txt')
+relpath = os.path.relpath('02_Exemplo.txt')
+abspath = os.path.abspath('02_Exemplo.txt')
 
 print('Caminho relativo:', relpath)
 print('Caminho absoluto:', abspath)
