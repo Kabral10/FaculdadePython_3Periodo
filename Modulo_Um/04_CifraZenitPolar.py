@@ -1,5 +1,5 @@
 def zenit_polar_replace(text):
-    # Aplicar a codificação ZENIT POLAR utilizando o método replace
+    # Aplicar a codificação ZENIT POLAR utilizando o method replace
     replacements = [('z', 'p'), ('e', 'o'), ('n', 'l'), ('i', 'a'), ('t', 'r'),
                     ('Z', 'P'), ('E', 'O'), ('N', 'L'), ('I', 'A'), ('T', 'R')]
     for old, new in replacements:
