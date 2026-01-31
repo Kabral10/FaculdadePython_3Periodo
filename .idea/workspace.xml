@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="quarto commit">
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/05_Tratamento_de_Erro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/06_Excecoes_modulo_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/06_diretorio_testeOS/arquivo_origem.txt" afterDir="false" />
+    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="quinto commit">
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados_teste2/eventos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo_Um/04_CifraZenitPolar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/04_CifraZenitPolar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,10 @@
     "Python.Metodo_Read.executor": "Run",
     "Python.Metodo_ReadLine.executor": "Run",
     "Python.Metodo_ReadLines.executor": "Run",
+    "Python.eventos.executor": "Run",
+    "Python.script2.executor": "Run",
+    "Python.script3.executor": "Run",
+    "Python.script4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -124,13 +129,22 @@
       <option name="project" value="LOCAL" />
       <updated>1769729371963</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="quinto commit">
+      <option name="closed" value="true" />
+      <created>1769868715315</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769868715315</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit de 2026" />
     <MESSAGE value="terceiro commit" />
     <MESSAGE value="quarto commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="quarto commit" />
+    <MESSAGE value="quinto commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="quinto commit" />
   </component>
 </project>
