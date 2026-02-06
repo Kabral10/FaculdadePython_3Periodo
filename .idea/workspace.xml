@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="setimo commit">
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/Populando_banco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script9.py" afterDir="false" />
+    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="oitavo commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/modelo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +65,7 @@
     "Python.Populando_banco.executor": "Run",
     "Python.eventos.executor": "Run",
     "Python.script10.executor": "Run",
+    "Python.script11.executor": "Run",
     "Python.script2.executor": "Run",
     "Python.script3.executor": "Run",
     "Python.script4.executor": "Run",
@@ -158,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770229349768</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="oitavo commit">
+      <option name="closed" value="true" />
+      <created>1770385672608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770385672608</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -168,6 +175,7 @@
     <MESSAGE value="quinto commit" />
     <MESSAGE value="sexto commit" />
     <MESSAGE value="setimo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="setimo commit" />
+    <MESSAGE value="oitavo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="oitavo commit" />
   </component>
 </project>
