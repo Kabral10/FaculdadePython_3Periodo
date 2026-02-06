@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="sexto commit">
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/modelo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script8.py" afterDir="false" />
+    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="setimo commit">
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/Populando_banco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/script9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/meu_banco.db" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/meu_banco.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +64,9 @@
     "Python.Metodo_Read.executor": "Run",
     "Python.Metodo_ReadLine.executor": "Run",
     "Python.Metodo_ReadLines.executor": "Run",
+    "Python.Populando_banco.executor": "Run",
     "Python.eventos.executor": "Run",
+    "Python.script10.executor": "Run",
     "Python.script2.executor": "Run",
     "Python.script3.executor": "Run",
     "Python.script4.executor": "Run",
@@ -75,6 +74,7 @@
     "Python.script6.executor": "Run",
     "Python.script7.executor": "Run",
     "Python.script8.executor": "Run",
+    "Python.script9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -150,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769891352132</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="setimo commit">
+      <option name="closed" value="true" />
+      <created>1770229349768</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770229349768</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +167,7 @@
     <MESSAGE value="quarto commit" />
     <MESSAGE value="quinto commit" />
     <MESSAGE value="sexto commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="sexto commit" />
+    <MESSAGE value="setimo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="setimo commit" />
   </component>
 </project>
