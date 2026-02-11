@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="oitavo commit">
+    <list default="true" id="53ed67c3-bd9a-40ee-8589-5872011c1dbc" name="Changes" comment="oitavo.2 commit">
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Interface_Grafica/Tkinter/01_Teste_Tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Interface_Grafica/Tkinter/02_app_Tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo_Um/Interface_Grafica/Tkinter/Explicação" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo_Um/Banco_de_Dados/modelo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +53,9 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01_Operacoes_Basicas.executor": "Run",
+    "Python.01_Teste_Tkinter.executor": "Run",
     "Python.02_Exemplo_Pratico.executor": "Run",
+    "Python.02_app_Tkinter.executor": "Run",
     "Python.03_Situacao_Problema.executor": "Run",
     "Python.04_CifraZenitPolar.executor": "Run",
     "Python.04_Lidando_com_dados_binarios.executor": "Run",
@@ -165,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770385672608</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="oitavo.2 commit">
+      <option name="closed" value="true" />
+      <created>1770392085832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770392085832</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,6 +188,7 @@
     <MESSAGE value="sexto commit" />
     <MESSAGE value="setimo commit" />
     <MESSAGE value="oitavo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="oitavo commit" />
+    <MESSAGE value="oitavo.2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="oitavo.2 commit" />
   </component>
 </project>
